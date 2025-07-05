@@ -2,10 +2,6 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=seanarv1n" />
 
-<p align="center">
-    <img src="img/gif.gif"  alt="You can call me gus">
-</p>
-
  - You can call me sean
  - Love doing new things
 
